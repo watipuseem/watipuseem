@@ -19,10 +19,7 @@ I'm @watipuseem, a passionate individual exploring the world of tech and creativ
 - Crypto & Finance Blogs
 - Web Development Projects
 
-## 📫 How to Reach Me
-- Instagram: [@VibeVerseDream](https://www.instagram.com/vibeversedream)
-- Website: [chryps.com](https://chryps.com)
-- Email: watipuseem@gmail.com
+
 
 ## 😄 Pronouns
 He/Him
